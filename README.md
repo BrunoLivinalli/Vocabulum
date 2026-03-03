@@ -32,6 +32,8 @@ Este projeto foi criado com foco em aprendizado de integração **Python**, lóg
 - Feedback visual por cor.
 - Layout semelhante ao jogo original.
 
+  <img width="683" height="704" alt="Captura de tela 2026-03-02 221534" src="https://github.com/user-attachments/assets/a2c36d1d-e5f6-4bf9-8ab8-161dbde1249b" />
+
 ---
 
 ## Instalação e execução
